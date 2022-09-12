@@ -30,4 +30,4 @@ Nama user | string | dahmun
 Koordinat | poin | 106.03794 -6.39284693
 
 ## Mockup UX
-![Alur aplikasi](mockup.png)
+![Alur aplikasi](location.png)
