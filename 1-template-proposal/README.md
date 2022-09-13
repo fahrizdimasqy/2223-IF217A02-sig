@@ -29,6 +29,8 @@ Nama Atribut | Tipe Data | Contoh
 ---|---|---
 UUID | string | ooj73849r734mf34r3
 Nama user | string | Fahriz
+Username | string | fahriz
+Password | string | 12345678
 Koordinat | poin | 106.03794 -6.39284693
 
 ## Mockup UX
