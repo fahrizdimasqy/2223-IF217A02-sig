@@ -2,7 +2,8 @@
 
 
 ## Deskripsi Masalah
-- Sulitnya mengetahui / mencari tempat wisata disekitar
+- Sulitnya mengetahui tempat wisata disekitar
+- Sulitnya mengetahui mencari tempat wisata disekitar
 
 ## Deskripsi Solusi
 - Membuat aplikasi pencarian geospasial  untuk tempat-wisata disekitar berdasarkan titik kordinat user/pengguna
