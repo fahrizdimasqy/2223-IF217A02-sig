@@ -11,6 +11,7 @@
 
 ## Use Case
 - User dapat melihat wisata terdekat/disekitar berdasarkan titik kordinat
+- User dapat mencari tempat wisata
 
 ## Struktur Data
 
