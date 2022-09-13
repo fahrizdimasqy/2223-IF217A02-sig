@@ -22,7 +22,7 @@ Nama Wisata | string | Transtudio Bandung
 Kabupaten | string | Kota Bandung
 Provinsi | String | Jawa Barat
 🌏 Koordinat | poin | [106.03794 -6.39284693]
-🌏 Area | polygon | [[106.03794 -6.39284693], [106.03794 -6.39284693], [106.03794 -6.39284693]]
+
 
 ### User
 Nama Atribut | Tipe Data | Contoh
