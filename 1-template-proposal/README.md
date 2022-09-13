@@ -7,6 +7,7 @@
 
 ## Deskripsi Solusi
 - Membuat aplikasi pencarian geospasial  untuk tempat-wisata disekitar berdasarkan titik kordinat user/pengguna
+- Menentukan wisata terdekat berdasarkan kordinat user
 
 ## Use Case
 - User dapat melihat wisata terdekat/disekitar berdasarkan titik kordinat
